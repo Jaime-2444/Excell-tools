@@ -24,3 +24,7 @@ The goal is to identify defect trends, problematic production lines, performance
 ## Dashboard Preview
 
 <img width="2042" height="1082" alt="image" src="https://github.com/user-attachments/assets/ea06bf09-a5dd-4bed-b710-6640c06e7c87" />
+
+## Excell Online File
+
+https://1drv.ms/x/c/bf5599488f820b83/IQCQygmqQsTUQKII5bYK7FppAW5I60n4l6tpjeX3gfaIFew?e=hPElJw
